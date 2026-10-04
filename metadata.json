@@ -1,0 +1,6 @@
+{
+  "name": "IGCSE 0580 Math Master: Scatter Diagrams & Money Management",
+  "description": "Interactive Cambridge IGCSE 0580 test preparation review for Scatter Diagrams and Managing Money, featuring 30 authentic exam-style MCQs, interactive scatter plots, step-by-step working, and hints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
